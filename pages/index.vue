@@ -5,27 +5,28 @@
     <LearnChecks />
     <CourseContent />
     <Author />
-    <Sponsor />
+    <!-- <Sponsor /> -->
     <Communities />
     <CTA />
-    <!-- <CountDown /> -->
+    <CountDown />
   </div>
 </template>
 
 <script>
-import Hero from '@/components/Hero'
-import AboutCourse from '@/components/AboutCourse'
-import LearnChecks from '@/components/LearnChecks'
-import CourseContent from '@/components/CourseContent'
-import Author from '@/components/Author'
-import Sponsor from '@/components/Sponsor'
-import Communities from '@/components/Communities'
-import CTA from '@/components/CTA'
-import CountDown from '@/components/CountDown'
+import Hero from "@/components/Hero";
+import AboutCourse from "@/components/AboutCourse";
+import LearnChecks from "@/components/LearnChecks";
+import CourseContent from "@/components/CourseContent";
+import Author from "@/components/Author";
+import Sponsor from "@/components/Sponsor";
+import Communities from "@/components/Communities";
+import CTA from "@/components/CTA";
+import CountDown from "@/components/CountDown";
 
 export default {
-  name: 'Home',
+  name: "Home",
   components: {
+    CountDown,
     Hero,
     AboutCourse,
     LearnChecks,
@@ -34,9 +35,8 @@ export default {
     Sponsor,
     Communities,
     CTA,
-    CountDown
   }
-}
+};
 </script>
 
 <style lang="scss">

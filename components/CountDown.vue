@@ -4,7 +4,7 @@
       <span class="CountDown-pre">
         <i>faltam</i>
       </span>
-      <VueCountdown :time="calculateTime">
+      <VueCountdown :time="calcTime">
         <template slot-scope="props">
           <strong>{{ props.days }} dias {{ props.hours }} horas {{ props.minutes }} minutos {{ props.seconds }} segundos</strong>
         </template>
@@ -17,16 +17,18 @@
 </template>
 
 <script>
-import VueCountdown from '@chenfengyuan/vue-countdown';
+import VueCountdown from "@chenfengyuan/vue-countdown";
+import { getReleaseTimestamp } from "@/utils/helpers";
 
 export default {
-  name: 'CountDown',
+  name: "CountDown",
   components: { VueCountdown },
   computed: {
-    calculateTime() {
-      return new Date('2018-11-27T00:00:00').getTime() - new Date().getTime();
-    },
-  },
+    calcTime: () => {
+      const { remainingTime } = getReleaseTimestamp();
+      return remainingTime;
+    }
+  }
 };
 </script>
 
@@ -41,7 +43,7 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Lobster Two', cursive;
+  font-family: "Lobster Two", cursive;
   text-align: center;
 
   i {

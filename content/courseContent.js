@@ -1,144 +1,87 @@
-export default [{
-    title: 'Introdução ao Curso',
+export default [
+  {
+    title: "Introdução ao Curso",
     items: [
-      'Introdução ao Curso e Objetivos',
-      'Tópicos abordados - O que aprenderei ?',
-      'Instalação e Configuração',
-      'Introdução ao Node.js',
-      'Conhecendo o gerenciador de pacotes NPM',
-      'Começando um projeto Node.js',
+      "Introdução ao Curso e Objetivos",
+      "Tópicos abordados - O que aprenderei ?",
+      "Instalação e Configuração",
+      "Porque Javascript é diferente das outras linguagens?",
+      "Porque aprender Javascript?"
     ]
   },
   {
-    title: 'Sincronia de Funções Javascript',
+    title: "Iniciando com Javascript",
     items: [
-      'Introdução ao Capitulo',
-      'Entendendo o ciclo de vida de aplicações Javascript',
-      'Trabalhando com Callbacks ',
-      'Introdução a Promises',
-      'Refatorando Callbacks para Promises',
-      'Introdução a resolução de Promises com async/await',
-      'Resolução de promises com Async/Await',
-      'Introdução à manipulação de eventos com EventEmitter',
-      'Trabalhando com Eventos com a classe EventEmitter',
+      "Introdução ao Capitulo",
+      "O que faremos neste capítulo?",
+      "Guardando informações em Variaveis"
     ]
   },
   {
-    title: 'Manipulação de Listas',
+    title: "Tipos de dados",
     items: [
-      'Introdução ao Capitulo',
-      'Manipulando listas com For/ForIn/ForOf',
-      'Criando nosso proprio Array.Map',
-      'Criando nosso proprio Array.Filter',
-      'Criando nosso proprio Array.Reduce',
+      "Trabalhando com Strings e Numbers",
+      "Conhecendo os operadores do Javascript",
+      "Comentando  código",
+      "Conhecendo o tipo Boolean",
+      "O que são os tipos undefined e null?",
+      "Trabalhando com Arrays",
+      "Trabalhando com Objects",
+      "Trabalhando com Datas",
+      "Funções em javascript",
+      "Formas de declarar uma função: Expressão, declarativa e arrow function",
+      "Trabalhando com Classes",
+      "Desafio do capítulo (txt)",
+      "Desafio do capítulo corrigido"
     ]
   },
   {
-    title: 'Introdução a desenvolvimento de testes automatizados',
+    title: "Controlando o fluxo de dados",
     items: [
-      'Introdução a desenvolvimento de testes automatizados em Javascript',
-      'Ambiente e configuração do ciclo de testes'
+      "Introdução ao capítulo",
+      "Conhecendo o if, else e else if",
+      "Conhecendo o Switch Case",
+      "Trabalhando com While",
+      "Trabalhando com For ForIn e ForOf",
+      "Desafio do capítulo (txt)",
+      "Desafio do capítulo corrigido"
     ]
   },
   {
-    title: 'Node.js além da Web - Criando ferramentas de linha de comando',
+    title: "Modulos em Javascript",
     items: [
-      'Introdução ao Capítulo',
-      'Manipulando arquivos - CREATE',
-      'Manipulando arquivos - READ',
-      'Manipulando arquivos - UPDATE',
-      'Manipulando arquivos - DELETE',
-      'Criando ferramentas de linha de comando com Commander',
+      "Expondo modulos",
+      "Lendo modulos",
+      "importando bibliotecas",
+      "Desafio do capítulo (txt)",
+      "Desafio do capítulo corrigido"
     ]
   },
   {
-    title: 'Bancos de Dados - Nosso projeto Multi-banco de dados',
+    title: "O Ciclo de vida Javascript",
     items: [
-      'Criando projetos multi-banco de dados',
-      'Trabalhando com o padrão Strategy para Multi DataSources',
-      'Design Patterns - Strategy',
-      'Demonstração multi datasources com strategy design pattern',
+      "Funções assincronas?",
+      "O que são Callbacks?",
+      "Listando arquivos no diretorio",
+      "O que são Promises?",
+      "Como usar async/await para resolver Promises?",
+      "Desafio do capítulo (txt)",
+      "Desafio do capítulo corrigido"
     ]
   },
   {
-    title: 'Introdução ao Postgres e Bancos Relacionais',
+    title: "Projeto final: Construindo um jogo da Memória",
     items: [
-      'Introdução ao Postgres e Bancos Relacionais',
-      'Postgres - Operadores e conexão',
-      'Conhecendo o Sequelize',
-      'Cadastrando Heróis - CREATE',
-      'Listando Heróis - READ',
-      'Atualizando Heróis - UPDATE',
-      'Removendo Heróis - DELETE',
+      "O que faremos?",
+      "Configurando ambiente",
+      "Mapeando lógica do programa",
+      "Carregando icones da API de pokemons",
+      "Obtendo Clique do Usuario",
+      "Exibindo resultados"
     ]
   },
   {
-    title: 'MongoDB e Bancos Não-Relacionais (NoSQL)',
-    items: [
-      'Introdução ao MongoDB e Bancos Não-Relacionais (NoSQL)',
-      'Operadores e conexão',
-      'Conhecendo o Mongoose',
-      'Cadastrando Heróis - CREATE',
-      'Listando Heróis - READ',
-      'Atualizando Heróis - UPDATE',
-      'Removendo Heróis - DELETE',
-    ]
-  },
-  {
-    title: 'Refatorando nosso projeto para bancos de dados multi-schemas',
-    items: [
-      'Refatorando a estratégia de MongoDB para multi-schemas',
-      'Refatorando a estratégia de Postgres para multi-schemas',
-    ]
-  },
-  {
-    title: 'Node.js e Web Services - Criando serviços profissionais com Hapi.js',
-    items: [
-      'Introdução ao Capítulo',
-      'Conhecendo o Módulo HTTP',
-      'Introdução ao Hapi.js',
-      'Criando de estrutura para criação de APIs com Hapi.js',
-      'Entendendo o padrão RestFul para desenvolvimento de APIs',
-      'Cadastrando Heróis - POST',
-      'Listando Heróis - GET',
-      'Atualizando Heróis - PATCH / PUT',
-      'Removendo Heróis - DELETE',
-      'Código fonte do capítulo',
-    ]
-  },
-
-  {
-    title: 'Documentação de Serviços com Swagger',
-    items: [
-      'Adicionando Swagger ao nosso Serviço'
-    ]
-  },
-  {
-    title: 'Autenticação com Json Web Token',
-    items: [
-      'Introdução ao Capitulo',
-      'Como funciona o Json Web Token?',
-      'Configurando o JWT - plugins, testes e rota de login',
-      'Adicionando Hapi-JWT ao nosso Serviço de herois',
-      'Criando o modulo de autenticação de usuarios e hash de senha com bcrypt',
-    ]
-  },
-  {
-    title: 'Publicação de serviços na Web',
-    items: [
-      'Introdução ao Capitulo',
-      'Trabalhando com multi-environments (development, production)',
-      'Publicação de nossos serviços gratuitamente com Heroku & Heroku toolbelt',
-      'MongoDB online e gratuito com Mongo Lab',
-      'Postgres Gratuito no Heroku',
-      'Trabalhando com PM2 para gerência de apps',
-      'Expondo cobertura de código com istanbul',
-    ]
-  },
-  {
-    title: 'Próximos passos',
-    items: [
-      'O que aprender?'
-    ]
-  },
-]
+    title: "Próximos passos",
+    items: ["O que aprender?"]
+  }
+];

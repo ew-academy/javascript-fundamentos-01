@@ -1,13 +1,13 @@
 <template>
   <section class="section Hero">
     <div class="container HeroContainer">
-      <h1>Node.js para Iniciantes</h1>
-      <p class="subtitle"><i>By</i> <strong>#NodeBR!</strong></p>
-      <VueCountdown :time="2163195621">
+      <h1>Fundamentos de Javascript</h1>
+      <p class="subtitle"><i>By</i> <strong>Erick Wendel!</strong></p>
+      <!-- <VueCountdown :time="2163195621">
         <template slot-scope="props">
           <p>{{ props.days }} dias {{ props.hours }} horas {{ props.minutes }} minutos {{ props.seconds }} segundos</p>
         </template>
-      </VueCountdown>
+      </VueCountdown> -->
       <StyledButton margin="50px 0px">{{ getRightText }}</StyledButton>
     </div>
   </section>
