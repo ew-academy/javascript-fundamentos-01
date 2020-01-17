@@ -2,12 +2,11 @@
   <section class="section Hero">
     <div class="container HeroContainer">
       <h1>Fundamentos de Javascript</h1>
-      <p class="subtitle"><i>By</i> <strong>Erick Wendel!</strong></p>
-      <!-- <VueCountdown :time="2163195621">
-        <template slot-scope="props">
-          <p>{{ props.days }} dias {{ props.hours }} horas {{ props.minutes }} minutos {{ props.seconds }} segundos</p>
-        </template>
-      </VueCountdown> -->
+      <p class="subtitle">
+        <i>Aprenda Javascript com</i> <strong>diversão</strong> <i>e código</i>
+        <i>com</i> <strong>Erick Wendel</strong>
+      </p>
+ 
       <StyledButton margin="50px 0px">{{ getRightText }}</StyledButton>
     </div>
   </section>
@@ -29,7 +28,7 @@ export default {
 <style lang="scss" scoped>
 .Hero {
   height: 100vh;
-  background-image: url(../assets/banner.jpg);
+  background-image: url(../assets/banner.jpeg);
   background-size: cover;
   position: relative;
 

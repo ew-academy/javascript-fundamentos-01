@@ -7,24 +7,24 @@
         Sobre o instrutor
       </StyledTitle>
       <h3>Erick Wendel</h3>
-      <p>Consultor em arquitetura de soluções em foco cloud computing. Microsoft Most Valuable Professional (MVP). Co-organizador das comunidades NodeBR, Javascript São Paulo, Nerdzão e Nerdgirlz. Fundador da EW.IT, Microsoft Certified Professional e Microsoft Specialist. Possui amplo conhecimento em desenvolvimento de software, experiência em arquitetura, desenvolvimento e segurança de aplicações. Palestrante nas maiores conferências de Javascript, Node.js e segurança da América latina.</p>
+      <p>Erick Wendel, palestrante internacional, arquiteto de software e co-organizador de comunidades de tecnologia no Brasil. Nomeado pela Microsoft como Most Valuable Professional e pelo Google como Google Developer Expert, especialista em aplicações Node.js e Javascript. Conta com mais de noventa apresentações em sua carreira e coopera em comunidades de software como Nerdzão, NodeBR e NodeschoolSP.</p>
       <div>
         <a
           target="_blank"
-          href="https://twitter.com/erickwendel_?origin=CursoNodeBR"
+          href="https://twitter.com/erickwendel_?origin=FundamentosJavascriptCurso"
           class="icon icon--twitter" />
         <a
           target="_blank"
-          href="https://github.com/erickwendel?origin=CursoNodeBR"
+          href="https://github.com/erickwendel?origin=FundamentosJavascriptCurso"
           class="icon icon--github" />
         <a
           target="_blank"
-          href="https://erickwendel.github.io/timeline?origin=CursoNodeBR"
+          href="https://erickwendel.github.io/timeline?origin=FundamentosJavascriptCurso"
           class="icon icon--web" />
 
         <a
           target="_blank"
-          href="https://www.linkedin.com/in/erickwendel?origin=CursoNodeBR"
+          href="https://www.linkedin.com/in/erickwendel?origin=FundamentosJavascriptCurso"
           class="icon icon--linkedin" />
       </div>
     </div>

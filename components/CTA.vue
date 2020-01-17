@@ -3,7 +3,7 @@
     <div class="container CTAContainer">
       <StyledTitle
         color="#fff"
-        margin="0px 0px 60px 0px">Garanta sua vaga</StyledTitle>
+        margin="0px 0px 60px 0px">Inscreva-se</StyledTitle>
       <StyledButton margin="0px 0px 60px 0px">{{ getRightText }}</StyledButton>
     </div>
   </section>
@@ -25,7 +25,7 @@ export default {
 
 <style lang="scss" scoped>
 .CTA {
-  background-color: #232323;
+  background-color: #1b2e31;
 
   > .CTAContainer {
     display: flex;

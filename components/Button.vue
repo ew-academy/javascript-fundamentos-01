@@ -2,7 +2,7 @@
   <a
     :style="{ margin: margin }"
     target="__blank"
-    href="https://sso.teachable.com/secure/295257/users/sign_up?origin=LandingNodeBR&after_success_url=%2Fsecure%2F295257%2Fcheckout%2F881116%2Fnode-js-para-iniciantes-nodebr"
+    href="#"
     class="StyledBtn">
     <slot />
   </a>
@@ -41,7 +41,7 @@ export default {
 
   &::after {
     position: absolute;
-    content: 'treinamento online e gratuito!';
+    content: 'treinamento 100% online';
     font-size: 10px;
     color: #ccc;
     font-weight: 700;

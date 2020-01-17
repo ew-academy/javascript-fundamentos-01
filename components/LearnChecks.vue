@@ -6,15 +6,14 @@
         margin="0px 0px 20px 0px">O que você vai aprender?</StyledTitle>
       <div class="LearnChecksContainer-list">
         <ul>
-          <li> <span>🤖</span> Criar suas próprias Web APIs</li>
-          <li> <span>😍</span> Expor e publicar serviços ao mundo</li>
-          <li> <span>🦄</span> Entender e criar seu fluxo de testes</li>
-          <li> <span>💥</span> Entender e executar padrões de projetos</li>
+          <li> <span>😍</span> Criar um projeto do zero</li>
+          <li> <span>🤖</span> Ciclo de vida do Javascript</li>
+          <li> <span>💥</span> null, undefined e expressões booleanas </li>
         </ul>
         <ul>
-          <li> <span>🙀</span> Usar multi bancos de dados</li>
-          <li> <span>🔥</span> Criar, manter e documentar seus serviços</li>
-          <li> <span>⚡</span> Usar Node.js como ferramenta de linha de comando</li>
+          <li> <span>🙀</span> Variáveis, métodos, classes e funções</li>
+          <li> <span>🦄</span> Estruturas de repetição</li>
+          <li> <span>⚡</span> Dominar funções assíncronas</li>
         </ul>
       </div>
     </div>

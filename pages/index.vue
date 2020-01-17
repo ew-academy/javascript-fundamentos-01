@@ -6,7 +6,8 @@
     <CourseContent />
     <Author />
     <!-- <Sponsor /> -->
-    <Communities />
+    <!-- <Communities /> -->
+    <HowItWorks />
     <CTA />
     <CountDown />
   </div>
@@ -15,6 +16,7 @@
 <script>
 import Hero from "@/components/Hero";
 import AboutCourse from "@/components/AboutCourse";
+import HowItWorks from "@/components/HowItWorks";
 import LearnChecks from "@/components/LearnChecks";
 import CourseContent from "@/components/CourseContent";
 import Author from "@/components/Author";
@@ -35,6 +37,7 @@ export default {
     Sponsor,
     Communities,
     CTA,
+    HowItWorks,
   }
 };
 </script>

@@ -28,7 +28,7 @@ export default [
       "Trabalhando com Arrays",
       "Trabalhando com Objects",
       "Trabalhando com Datas",
-      "Funções em javascript",
+      "Funções em Javascript",
       "Formas de declarar uma função: Expressão, declarativa e arrow function",
       "Trabalhando com Classes",
       "Desafio do capítulo (txt)",
@@ -48,10 +48,10 @@ export default [
     ]
   },
   {
-    title: "Modulos em Javascript",
+    title: "Módulos em Javascript",
     items: [
-      "Expondo modulos",
-      "Lendo modulos",
+      "Expondo módulos",
+      "Lendo módulos",
       "importando bibliotecas",
       "Desafio do capítulo (txt)",
       "Desafio do capítulo corrigido"
@@ -60,9 +60,9 @@ export default [
   {
     title: "O Ciclo de vida Javascript",
     items: [
-      "Funções assincronas?",
-      "O que são Callbacks?",
-      "Listando arquivos no diretorio",
+      "Funções assíncronas?",
+      "O que são callbacks?",
+      "Listando arquivos no diretório",
       "O que são Promises?",
       "Como usar async/await para resolver Promises?",
       "Desafio do capítulo (txt)",
@@ -74,9 +74,11 @@ export default [
     items: [
       "O que faremos?",
       "Configurando ambiente",
+      "Criando estrutura do projeto",
       "Mapeando lógica do programa",
-      "Carregando icones da API de pokemons",
-      "Obtendo Clique do Usuario",
+      "Criando timer",
+      "Ordenando cartas",
+      "Organizando o código",
       "Exibindo resultados"
     ]
   },
