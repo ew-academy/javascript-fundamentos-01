@@ -14,7 +14,7 @@ export default [
     items: [
       "Introdução ao Capitulo",
       "O que faremos neste capítulo?",
-      "Guardando informações em Variaveis"
+      "Guardando informações em Variveis"
     ]
   },
   {

@@ -5,16 +5,16 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Node.js para Iniciantes - #NodeBR!',
+    title: 'Treinamento online de fundamentos de Javascript',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { name: 'og:title', content: 'Node.js para Iniciantes - #NodeBR!' },
-      { name: 'og:site_name', content: 'NodeBR Treinamento' },
-      { name: 'og:description', content: 'Treinamento gratuito de Node.js pela @NodeBR' },
-      { name: 'og:image', content: 'http://treinamento.nodebr.org/nodebr.png' },
+      { name: 'og:title', content: 'Treinamento online de fundamentos de Javascript' },
+      { name: 'og:site_name', content: 'Fundamentos de Javascript' },
+      { name: 'og:description', content: 'Aprenda Javascript com diversão e código' },
+      { name: 'og:image', content: 'http://treinamento.nodebr.org/banner.jpeg' },
       { name: 'og:image:type', content: 'image/png' },
-      { hid: 'description', name: 'description', content: 'Treinamento gratuito de Node.js pela @NodeBR' }
+      { hid: 'description', name: 'description', content: 'Aprenda Javascript com diversão e código' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
