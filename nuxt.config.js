@@ -12,7 +12,7 @@ module.exports = {
       { name: 'og:title', content: 'Treinamento online de fundamentos de Javascript' },
       { name: 'og:site_name', content: 'Fundamentos de Javascript' },
       { name: 'og:description', content: 'Aprenda Javascript com diversão e código' },
-      { name: 'og:image', content: 'http://treinamento.nodebr.org/banner.jpeg' },
+      { name: 'og:image', content: 'https://fundamentosjs.netlify.com/banner.jpeg' },
       { name: 'og:image:type', content: 'image/png' },
       { hid: 'description', name: 'description', content: 'Aprenda Javascript com diversão e código' }
     ],
