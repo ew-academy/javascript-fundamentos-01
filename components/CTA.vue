@@ -4,7 +4,9 @@
       <StyledTitle
         color="#fff"
         margin="0px 0px 60px 0px">Inscreva-se</StyledTitle>
-      <StyledButton margin="0px 0px 60px 0px">{{ getRightText }}</StyledButton>
+      <StyledButton 
+        margin="0px 0px 60px 0px"
+      >{{ getRightText }}</StyledButton>
     </div>
   </section>
 </template>

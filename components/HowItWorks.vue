@@ -9,10 +9,7 @@
           <li>O <strong>código fonte</strong> e conteúdo apresentado em aula é <strong>disponibilizado</strong> na plataforma.</li>
           <li>Não curtiu? Você tem até <strong>7 dias</strong> para pedir o reembolso.</li>
           <li><strong>Está animado?</strong> Temos o programa de pré-venda que te dará 30% de desconto no valor final.</li>
-          <li>Quer divulgar para os amigos e <strong>ainda ganhar uma grana?</strong> Temos o programa de afiliados, onde cada aluno que você trazer, uma comissão é gerada a partir de um link 
-          (<a 
-            href="https://fb.com/page.erickwendel" 
-            target="__blank">entre em contato</a> para saber mais).</li>
+          <li>Quer divulgar para os amigos e <strong>ainda ganhar uma grana?</strong> <a href="https://app-vlc.hotmart.com/affiliate-recruiting/view/2939F20235102">Participe do programa de afiliados</a>, onde cada aluno que você trazer, uma comissão é gerada a partir de um link</li>
           <li><strong>Terão mais cursos?</strong> Sim, seguimos o modelo de sempre criar conteúdos <strong>baseados em opinião</strong> e <strong>feedback</strong> de nossos alunos.</li>
         </ol>
       </p>
