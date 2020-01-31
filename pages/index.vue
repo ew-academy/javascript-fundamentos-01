@@ -2,7 +2,7 @@
   <div class="IndexPage">
     <Hero />
     <AboutCourse />
-    <VideoPublicity />
+    <!-- <VideoPublicity /> -->
     <LearnChecks />
     <CourseContent />
     <Author />
