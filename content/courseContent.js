@@ -13,8 +13,10 @@ export default [
     title: "Iniciando com Javascript",
     items: [
       "Introdução ao Capitulo",
+      "Ambiente e instalação",
       "O que faremos neste capítulo?",
-      "Guardando informações em Variáveis"
+      "Guardando informações em Variáveis",
+      "Diferença entre var, let e const"
     ]
   },
   {
@@ -23,15 +25,16 @@ export default [
       "Trabalhando com Strings e Numbers",
       "Conhecendo os operadores do Javascript",
       "Comentando  código",
-      "Conhecendo o tipo Boolean",
       "O que são os tipos undefined e null?",
+      "Conhecendo o tipo Boolean",
       "Trabalhando com Arrays",
       "Trabalhando com Objects",
+      "Conhecendo os métodos assessores get/set de Objetos",
       "Trabalhando com Datas",
       "Funções em Javascript",
       "Formas de declarar uma função: Expressão, declarativa e arrow function",
       "Trabalhando com Classes",
-      "Desafio do capítulo (txt)",
+      "Desafio do capítulo",
       "Desafio do capítulo corrigido"
     ]
   },
@@ -41,19 +44,18 @@ export default [
       "Introdução ao capítulo",
       "Conhecendo o if, else e else if",
       "Conhecendo o Switch Case",
-      "Trabalhando com While",
+      "Trabalhando com While e Do...While",
       "Trabalhando com For ForIn e ForOf",
-      "Desafio do capítulo (txt)",
+      "Desafio do capítulo",
       "Desafio do capítulo corrigido"
     ]
   },
   {
     title: "Módulos em Javascript",
     items: [
-      "Expondo módulos",
-      "Lendo módulos",
-      "importando bibliotecas",
-      "Desafio do capítulo (txt)",
+      "Módulos no Node.js",
+      "Módulos em navegadores",
+      "Desafio do capítulo",
       "Desafio do capítulo corrigido"
     ]
   },
@@ -65,7 +67,7 @@ export default [
       "Listando arquivos no diretório",
       "O que são Promises?",
       "Como usar async/await para resolver Promises?",
-      "Desafio do capítulo (txt)",
+      "Desafio do capítulo",
       "Desafio do capítulo corrigido"
     ]
   },
@@ -79,7 +81,8 @@ export default [
       "Criando timer",
       "Ordenando cartas",
       "Organizando o código",
-      "Exibindo resultados"
+      "Exibindo resultados",
+      "O que mais?"
     ]
   },
   {
