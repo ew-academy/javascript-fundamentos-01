@@ -2,7 +2,7 @@
   <a
     :style="{ margin: margin }"
     target="__blank"
-    href="https://pay.hotmart.com/G20235081F"
+    href="https://pay.hotmart.com/G20235081F?checkoutMode=10"
     class="StyledBtn">
     <slot />
   </a>

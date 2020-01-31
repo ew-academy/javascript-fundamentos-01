@@ -2,11 +2,13 @@
   <div class="IndexPage">
     <Hero />
     <AboutCourse />
+    <VideoPublicity />
     <LearnChecks />
     <CourseContent />
     <Author />
-    <!-- <Sponsor /> -->
     <!-- <Communities /> -->
+    <!-- <Sponsor /> -->
+    
     <HowItWorks />
     <CTA />
     <CountDown />
@@ -21,6 +23,7 @@ import LearnChecks from "@/components/LearnChecks";
 import CourseContent from "@/components/CourseContent";
 import Author from "@/components/Author";
 import Sponsor from "@/components/Sponsor";
+import VideoPublicity from "@/components/VideoPublicity";
 import Communities from "@/components/Communities";
 import CTA from "@/components/CTA";
 import CountDown from "@/components/CountDown";
@@ -38,6 +41,7 @@ export default {
     Communities,
     CTA,
     HowItWorks,
+    VideoPublicity,
   }
 };
 </script>

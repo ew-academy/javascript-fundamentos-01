@@ -2,14 +2,6 @@
   <section class="section AboutCourse">
     <div class="container AboutCourseContainer">
       <StyledTitle margin="0px 0px 30px 0px">Sobre o curso</StyledTitle>
-      <!-- <div>
-        <iframe 
-          class="iframe"
-          src="https://www.youtube.com/embed/PkqfKt5m4c0" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen />
-      </div> -->
       <p>
         Varrendo a internet, encontramos diversos treinamentos sobre  <strong>Fundamentos</strong>  de  <strong>Javascript</strong>. Mas na maioria das vezes estes conteúdos  <strong>são focados na mesma coisa</strong>!  Este treinamento foi formatado junto à comunidade brasileira de Javascript e Node.js, focada em mostrar os fundamentos da linguagem apresentando seus principais benefícios e tudo isso <strong>na prática</strong>.
       </p>
@@ -21,7 +13,7 @@
       <p>
         Para você que está com <strong>dificuldades</strong> em <strong>lingugagens de programação</strong>, <strong>fazendo faculdade</strong>, tem curiosidade em aprender <strong>Javascript</strong> ou deseja aprender a sua primeira linguagem de programação na prática, sem <strong>lero lero</strong>, aprendendo poder da linguagem mais popular do mundo, certamente este treinamento é para <strong>você</strong>
       </p>
-      
+     
 
     </div>
   </section>
@@ -37,10 +29,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.iframe {
-  width: 900px;
-  height: 500px;
-}
+
 .AboutCourse {
   > .AboutCourseContainer {
     display: flex;
