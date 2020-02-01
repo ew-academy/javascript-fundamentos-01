@@ -5,6 +5,7 @@
       <p class="center">
         <ol>
           <li>Aulas <strong>100% online</strong> com acesso direto ao <strong>forúm</strong> de alunos e <strong>instrutor</strong>.</li>
+          <li>Aulas lançadas de <strong>forma gradual</strong> iniciando-se em <strong>20/02/2020.</strong></li>
           <li><strong>Todos</strong> os capítulos possuem <strong>desafios</strong> de fixação <strong>não obrigatórios</strong> para que você consiga aproveitar o melhor do seu tempo.</li>
           <li>O <strong>código fonte</strong> e conteúdo apresentado em aula é <strong>disponibilizado</strong> na plataforma.</li>
           <li>Não curtiu? Você tem até <strong>7 dias</strong> para pedir o reembolso.</li>
@@ -13,6 +14,13 @@
           <li><strong>Terão mais cursos?</strong> Sim, seguimos o modelo de sempre criar conteúdos <strong>baseados em opinião</strong> e <strong>feedback</strong> de nossos alunos.</li>
         </ol>
       </p>
+      <StyledTitle 
+        margin="0px 0px 30px 0px">Pré venda?</StyledTitle>
+      <p class="center">
+        A pré venda é limitada a cem vagas no valor promocional. Após as cem primeiras vendas, o valor do curso torna-se o valor de segundo lote. <br>
+        Aulas em pré-venda serão disponibilizadas de forma gradual, iniciando-se em 16/02/2020.
+      </p>
+          
     </div>
   </section>
 </template>
