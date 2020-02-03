@@ -4,7 +4,8 @@
       <StyledTitle margin="0px 0px 30px 0px">Como funciona?</StyledTitle>
       <p class="center">
         <ol>
-          <li>Aulas <strong>100% online</strong> com acesso direto ao <strong>forúm</strong> de alunos e <strong>instrutor</strong>.</li>
+          <li>Aulas gravadas e <strong>100% online</strong> com acesso direto ao <strong>forúm</strong> de alunos e <strong>instrutor</strong>.</li>
+          <li>Aulas disponíveis por pelo menos <strong>2 anos</strong></li>
           <li>Aulas lançadas de <strong>forma gradual</strong> iniciando-se em <strong>20/02/2020.</strong></li>
           <li><strong>Todos</strong> os capítulos possuem <strong>desafios</strong> de fixação <strong>não obrigatórios</strong> para que você consiga aproveitar o melhor do seu tempo.</li>
           <li>O <strong>código fonte</strong> e conteúdo apresentado em aula é <strong>disponibilizado</strong> na plataforma.</li>
@@ -16,7 +17,7 @@
       <StyledTitle 
         margin="0px 0px 30px 0px">Pré venda?</StyledTitle>
       <p class="center">
-        A pré venda é limitada a cem vagas no valor promocional. Após as cem primeiras vendas, o valor do curso torna-se o valor de segundo lote. <br>
+        A <strong>pré venda</strong> é limitada a vagas no valor promocional. Após o encerramento do lote, o valor do curso torna-se o valor do próximo lote. <br>
         Aulas em pré-venda serão disponibilizadas de forma gradual, iniciando-se em 16/02/2020.
       </p>
           
