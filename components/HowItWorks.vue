@@ -9,7 +9,7 @@
           <li><strong>Todos</strong> os capítulos possuem <strong>desafios</strong> de fixação <strong>não obrigatórios</strong> para que você consiga aproveitar o melhor do seu tempo.</li>
           <li>O <strong>código fonte</strong> e conteúdo apresentado em aula é <strong>disponibilizado</strong> na plataforma.</li>
           <li>Não curtiu? Você tem até <strong>7 dias</strong> para pedir o reembolso.</li>
-          <li><strong>Está animado?</strong> Temos o programa de pré-venda que te dará 30% de desconto no valor final.</li>
+          <li><strong>Está animado?</strong> Na campanha de pré-venda você terá desconto no valor base do curso.</li>
           <li><strong>Terão mais cursos?</strong> Sim, seguimos o modelo de sempre criar conteúdos <strong>baseados em opinião</strong> e <strong>feedback</strong> de nossos alunos.</li>
         </ol>
       </p>

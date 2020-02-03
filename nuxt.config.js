@@ -11,10 +11,10 @@ module.exports = {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'og:title', content: 'Treinamento online de fundamentos de Javascript' },
       { name: 'og:site_name', content: 'Fundamentos de Javascript' },
-      { name: 'og:description', content: 'Aprenda Javascript com diversão e código' },
+      { name: 'og:description', content: 'Aprenda Javascript de forma divertida com Erick Wendel' },
       { name: 'og:image', content: 'https://fundamentosjs.netlify.com/banner.jpeg' },
       { name: 'og:image:type', content: 'image/png' },
-      { hid: 'description', name: 'description', content: 'Aprenda Javascript com diversão e código' }
+      { hid: 'description', name: 'description', content: 'Aprenda Javascript de forma divertida com Erick Wendel' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },

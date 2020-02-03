@@ -3,8 +3,8 @@
     <div class="container HeroContainer">
       <h1>Fundamentos de Javascript</h1>
       <p class="subtitle">
-        <i>Aprenda Javascript com</i> <strong>diversão</strong> <i>e código</i>
-        <i>com</i> <strong>Erick Wendel</strong>
+        <i>Aprenda </i><strong>Javascript</strong> <i>de forma </i><strong>divertida</strong><i> com </i><strong>Erick Wendel</strong>
+        
       </p>
  
       <StyledButton margin="50px 0px">{{ getRightText }}</StyledButton>
