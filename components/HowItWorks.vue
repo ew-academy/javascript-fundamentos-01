@@ -8,17 +8,11 @@
           <li>Aulas disponíveis por pelo menos <strong>2 anos</strong></li>
           <li>Aulas lançadas de <strong>forma gradual</strong> iniciando-se em <strong>20/02/2020.</strong></li>
           <li><strong>Todos</strong> os capítulos possuem <strong>desafios</strong> de fixação <strong>não obrigatórios</strong> para que você consiga aproveitar o melhor do seu tempo.</li>
-          <li>O <strong>código fonte</strong> e conteúdo apresentado em aula é <strong>disponibilizado</strong> na plataforma.</li>
+          <li>O <strong>código fonte</strong> e conteúdo apresentado em aula é <strong>disponibilizado</strong> na plataforma a todo fim de capítulo.</li>
           <li>Não curtiu? Você tem até <strong>7 dias</strong> para pedir o reembolso.</li>
-          <li><strong>Está animado?</strong> Na campanha de pré-venda você terá desconto no valor base do curso.</li>
           <li><strong>Terão mais cursos?</strong> Sim, seguimos o modelo de sempre criar conteúdos <strong>baseados em opinião</strong> e <strong>feedback</strong> de nossos alunos.</li>
+          <li>Temos <strong>preços especiais</strong> para empresas, entre em contato pelo <a href="mailto:comercial@erickwendel.com.br">comercial@erickwendel.com.br</a></li>
         </ol>
-      </p>
-      <StyledTitle 
-        margin="0px 0px 30px 0px">Pré venda?</StyledTitle>
-      <p class="center">
-        A <strong>pré venda</strong> é limitada a vagas no valor promocional. Após o encerramento do lote, o valor do curso torna-se o valor do próximo lote. <br>
-        Aulas em pré-venda serão disponibilizadas de forma gradual, iniciando-se em 16/02/2020.
       </p>
           
     </div>

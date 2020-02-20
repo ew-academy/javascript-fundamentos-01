@@ -2,16 +2,13 @@
   <div class="IndexPage">
     <Hero />
     <AboutCourse />
-    <!-- <VideoPublicity /> -->
+    <VideoPublicity />
     <LearnChecks />
     <CourseContent />
     <Author />
-    <!-- <Communities /> -->
-    <!-- <Sponsor /> -->
-    
     <HowItWorks />
     <CTA />
-    <CountDown />
+    <!-- <CountDown /> -->
   </div>
 </template>
 

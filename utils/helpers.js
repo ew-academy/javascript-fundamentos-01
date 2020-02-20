@@ -1,6 +1,6 @@
 export const getRightText = () => {
   const { time } = getReleaseTimestamp();
-  return new Date().getTime() >= time ? 'Acesse agora!' : 'Reserve sua vaga!';
+  return new Date().getTime() > time ? 'Acesse agora!' : 'Reserve sua vaga!';
 };
 
 export const getReleaseTimestamp = () => {
